@@ -8,7 +8,7 @@ Frozenaddress is a fork of the original bitaddress.org project https://github.co
 Now Frozencoin addresses and their corresponding private key can be conveniently 
 generated in a web browser.
 
-Simply download the ZIP file and open in your browser, no internet connection needed.
+Simply download the ZIP file and open frozenaddress.html in your browser, no internet connection needed.
 
 The bitaddress.org project provides an all-in-one HTML document with embedded
 JavaScript/Css/Images. The JavaScript is readable not minified and contains no
